@@ -1,4 +1,4 @@
-package adresses;
+package exo1.adresses;
 /**
  * Une implementation de l'interface <tt>AfficheurDAdresses</tt>.
  *

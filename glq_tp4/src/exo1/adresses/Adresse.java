@@ -1,4 +1,4 @@
-package adresses;
+package exo1.adresses;
 import java.util.Objects;
 
 /**
